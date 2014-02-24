@@ -133,4 +133,3 @@ class ProblemEleven
   end
 
 end
-
